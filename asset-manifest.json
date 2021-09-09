@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Payas-Singh-Nikhurpa/static/css/main.07df3aa4.chunk.css",
-    "main.js": "/Payas-Singh-Nikhurpa/static/js/main.f837aaa3.chunk.js",
-    "main.js.map": "/Payas-Singh-Nikhurpa/static/js/main.f837aaa3.chunk.js.map",
+    "main.js": "/Payas-Singh-Nikhurpa/static/js/main.13effa4e.chunk.js",
+    "main.js.map": "/Payas-Singh-Nikhurpa/static/js/main.13effa4e.chunk.js.map",
     "runtime-main.js": "/Payas-Singh-Nikhurpa/static/js/runtime-main.48d4be9f.js",
     "runtime-main.js.map": "/Payas-Singh-Nikhurpa/static/js/runtime-main.48d4be9f.js.map",
-    "static/js/2.1e8df898.chunk.js": "/Payas-Singh-Nikhurpa/static/js/2.1e8df898.chunk.js",
-    "static/js/2.1e8df898.chunk.js.map": "/Payas-Singh-Nikhurpa/static/js/2.1e8df898.chunk.js.map",
+    "static/js/2.4cd3f671.chunk.js": "/Payas-Singh-Nikhurpa/static/js/2.4cd3f671.chunk.js",
+    "static/js/2.4cd3f671.chunk.js.map": "/Payas-Singh-Nikhurpa/static/js/2.4cd3f671.chunk.js.map",
     "index.html": "/Payas-Singh-Nikhurpa/index.html",
     "static/css/main.07df3aa4.chunk.css.map": "/Payas-Singh-Nikhurpa/static/css/main.07df3aa4.chunk.css.map",
-    "static/js/2.1e8df898.chunk.js.LICENSE.txt": "/Payas-Singh-Nikhurpa/static/js/2.1e8df898.chunk.js.LICENSE.txt"
+    "static/js/2.4cd3f671.chunk.js.LICENSE.txt": "/Payas-Singh-Nikhurpa/static/js/2.4cd3f671.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48d4be9f.js",
-    "static/js/2.1e8df898.chunk.js",
+    "static/js/2.4cd3f671.chunk.js",
     "static/css/main.07df3aa4.chunk.css",
-    "static/js/main.f837aaa3.chunk.js"
+    "static/js/main.13effa4e.chunk.js"
   ]
 }
