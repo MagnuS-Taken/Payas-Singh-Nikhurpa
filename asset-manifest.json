@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Payas-Singh-Nikhurpa/static/css/main.07df3aa4.chunk.css",
-    "main.js": "/Payas-Singh-Nikhurpa/static/js/main.13effa4e.chunk.js",
-    "main.js.map": "/Payas-Singh-Nikhurpa/static/js/main.13effa4e.chunk.js.map",
+    "main.js": "/Payas-Singh-Nikhurpa/static/js/main.a7478655.chunk.js",
+    "main.js.map": "/Payas-Singh-Nikhurpa/static/js/main.a7478655.chunk.js.map",
     "runtime-main.js": "/Payas-Singh-Nikhurpa/static/js/runtime-main.48d4be9f.js",
     "runtime-main.js.map": "/Payas-Singh-Nikhurpa/static/js/runtime-main.48d4be9f.js.map",
     "static/js/2.4cd3f671.chunk.js": "/Payas-Singh-Nikhurpa/static/js/2.4cd3f671.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.48d4be9f.js",
     "static/js/2.4cd3f671.chunk.js",
     "static/css/main.07df3aa4.chunk.css",
-    "static/js/main.13effa4e.chunk.js"
+    "static/js/main.a7478655.chunk.js"
   ]
 }
